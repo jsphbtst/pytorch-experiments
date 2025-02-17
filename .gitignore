@@ -1,0 +1,6 @@
+.env
+venv
+data
+checkpoints
+.ipynb_checkpoints
+*.pth
